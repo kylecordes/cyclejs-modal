@@ -27,21 +27,21 @@
   },
   "homepage": "https://github.com/cyclejs-community/cyclejs-modal#readme",
   "dependencies": {
-    "@cycle/dom": "^17.6.0",
-    "@cycle/isolate": "^3.0.0",
-    "@cycle/run": "^3.1.0",
+    "@cycle/dom": "^18.3.0",
+    "@cycle/isolate": "^3.1.0",
+    "@cycle/run": "^3.2.0",
     "cyclejs-utils": "^1.0.4",
-    "xstream": "^10.8.0"
+    "xstream": "^10.9.0"
   },
   "devDependencies": {
-    "babel-preset-es2015": "^6.22.0",
+    "babel-preset-es2015": "^6.24.1",
     "babelify": "^7.3.0",
-    "browserify": "^14.0.0",
-    "cp-cli": "^1.0.2",
+    "browserify": "^14.4.0",
+    "cp-cli": "^1.1.0",
     "mkdirp": "^0.5.1",
     "opn-cli": "^3.1.0",
-    "rimraf": "^2.5.4",
-    "typedoc": "^0.5.5",
-    "typescript": "^2.1.5"
+    "rimraf": "^2.6.2",
+    "typedoc": "^0.8.0",
+    "typescript": "2.5.2"
   }
 }
